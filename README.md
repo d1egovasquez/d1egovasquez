@@ -6,15 +6,6 @@
  </h3> 
 
 
-<div align="center">
- <div align="center">
-  Im listening to
- </div>
- <div align="">
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=suculento1&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=suculento1&redirect=true)
- </div>
 
 </div>
 <h3 align="center">Languages and Tools:</h3>
