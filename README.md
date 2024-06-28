@@ -1,7 +1,7 @@
 <h3 align="justify">
 Hi there! I'm Diego and I'm 32 years old, currently residing in Buenos Aires, however, it's a beautiful city and I'd love to live here, mainly to be closer to everything and have access to some awesome opportunities in the IT field.
 
-I'm a self-taught System Engineer and Web developer, but I break into many different fields and I’m fairly knowledgeable in most things surrounding SEO, SEM. I like to make websites and portray my clients' desires to produce better results or improve in some way by helping them grow.<h3>
+I'm a System Engineer and self-taught Web developer, but I break into many different fields and I’m fairly knowledgeable in most things surrounding SEO, SEM. I like to make websites and portray my clients' desires to produce better results or improve in some way by helping them grow.<h3>
 
 <div align="center">
 </div>
